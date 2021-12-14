@@ -1,0 +1,40 @@
+body {
+    font-family: 'Source Sans 3', sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: rgba(80,80,80);
+}
+
+#intro {
+    position: absolute; 
+    top: 15%; 
+    left: 15%;
+}
+
+#titulo {
+    font-size: 55px;
+}
+
+#banner_1 {
+    position: absolute;
+    left: 0px;
+    top: 5px;
+    background-color: rgb(221, 221, 221);
+    width: 100vw;
+    height: 20px;
+}
+
+#banner_2 {
+    position: absolute;
+    left: 0px;
+    bottom: 5px;
+    background-color: rgb(221, 221, 221);
+    width: 100vw;
+    height: 20px;
+}
+
+#contact {
+    font-size: 12px;
+    position: absolute;
+    bottom: 25px;
+    right: 10px;
+}
